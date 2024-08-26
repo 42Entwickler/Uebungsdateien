@@ -1,0 +1,65 @@
+// CCBY-SA: https://www.youtube.com/c/42Entwickler
+// Video zu diesem File: https://youtu.be/gSFcqWc7LNQ
+// Die Verbindung zwischen den Kreuzungen
+// in der Stadt Rohrbach
+// Syntax:
+// QUELLE-ZIEL: m [*]
+// * = Einbahn in diese Richtung
+// Ohne Stern = in beide Richtungen möglich
+// 55 Kanten
+// 42 Knoten
+K-A: 280 *
+A-B: 98
+A-D: 85
+B-C: 68
+B-W: 98
+C-D: 48
+D-E: 195
+E-F: 62
+F-G: 56
+G-H: 30
+H-I: 195
+I-J: 67
+I-a: 137
+a-b: 105
+b-9: 55
+9-c: 146
+c-d: 71
+c-F: 118
+d-e: 128
+d-f: 165
+e-f: 43
+f-g: 64
+H-1: 63
+1-3: 259
+1-2: 73
+3-2: 182
+2-4: 79
+3-5: 81
+5-4: 174
+5-6: 210
+4-6: 71
+6-7: 153
+E-7: 274
+7-8: 181
+8-K: 56
+8-L: 97
+K-L: 65
+M-P: 61
+L-M: 54
+L-P: 81
+P-Q: 83
+N-Q: 105
+M-N: 46
+N-O: 79
+O-R: 170
+Q-R: 48
+R-S: 173
+T-S: 120
+T-K: 128
+T-U: 167
+W-V: 202
+V-X: 39
+X-Z: 26
+X-Y: 68
+K-V: 154
